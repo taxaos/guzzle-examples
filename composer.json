@@ -1,0 +1,13 @@
+{
+    "name": "larserler/guzzle-examples",
+    "license": "MIT",
+    "require": {
+        "php": ">=7",
+        "guzzlehttp/guzzle": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AppDemo\\": "src"
+        }
+    }
+}
